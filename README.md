@@ -21,10 +21,14 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack D
 Socials: LinkedIn 
          Email
          Instagram 
+         
 
-AI / ML: Machine Learning, Deep Learning, CNNs, RNNs, NLP, LLMs, Generative AI, Prompt Engineering
-Backend & Databases: Node.js, Express.js, REST APIs, MongoDB, MySQL, PostgreSQL
-Languages: C++, Python, JavaScript, TypeScript, HTML/CSS
-Tools & Design: Git, GitHub, Jira, Figma, Canva, Adobe Lightroom, Adobe Firefly
+AI / ML: Machine Learning, Deep Learning, CNNs, RNNs, NLP, LLMs, Generative AI, Prompt Engineering.
+
+Backend & Databases: Node.js, Express.js, REST APIs, MongoDB, MySQL, PostgreSQL.
+
+Languages: C++, Python, JavaScript, TypeScript, HTML/CSS.
+
+Tools & Design: Git, GitHub, Jira, Figma, Canva, Adobe Lightroom, Adobe Firefly.
 
 
