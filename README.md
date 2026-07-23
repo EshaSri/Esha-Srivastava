@@ -1,34 +1,59 @@
-# Esha-Srivastava
-🚀 I'm currently working on
-Building AI-powered web applications, full-stack projects, and portfolio-ready software using React, Next.js, Python, and modern AI tools.
+🎓 Final-year B.Tech Computer Science (AI & ML) student passionate about building AI-powered applications and scalable web solutions.
 
-🤝 I'm looking to collaborate on
-AI applications, web development, and open-source projects that solve real-world problems.
+🚀 About Me
+🔭 Currently building AI-powered web applications and full-stack projects using React, Next.js, Python, and modern AI technologies.
+🌱 Continuously learning Machine Learning, Deep Learning, Large Language Models (LLMs), FastAPI, Next.js, SQL, and Data Structures & Algorithms.
+🤝 Open to collaborating on AI applications, full-stack development, and open-source projects that solve real-world problems.
+💡 Interested in Generative AI, LLM integration, backend development, cloud deployment, and scalable software systems.
+💬 Ask me about Python, JavaScript, React, Next.js, Git, GitHub, AI projects, and web development.
+⚡ I enjoy turning ideas into practical products by building real-world AI applications and continuously exploring new technologies.
+🛠️ Tech Stack
+🤖 AI & Machine Learning
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing (NLP)
+Large Language Models (LLMs)
+Generative AI
+Prompt Engineering
+💻 Programming Languages
+C++
+Python
+JavaScript
+TypeScript
+HTML5
+CSS3
+🌐 Frontend
+React.js
+Next.js
+Tailwind CSS
+⚙️ Backend
+Node.js
+Express.js
+FastAPI
+REST APIs
+🗄️ Databases
+MongoDB
+MySQL
+PostgreSQL
+🛠️ Tools
+Git
+GitHub
+Jira
+Figma
+Canva
+Adobe Lightroom
+Adobe Firefly
+🎯 Current Focus
+🤖 Building production-ready AI applications
+🌍 Creating scalable full-stack web platforms
+📚 Strengthening DSA and system design fundamentals
+🚀 Contributing to open-source projects
+☁️ Learning cloud deployment and modern backend architecture
+📫 Connect with Me
+💼 LinkedIn
+📧 Email
+📷 Instagram
 
-💡 I'm looking for help with
-Generative AI, LLM integration, backend development, deployment, and scalable full-stack applications.
-
-🌱 I'm currently learning
-Machine Learning, Deep Learning, Data Structures & Algorithms, SQL, Next.js, FastAPI, and AI application development.
-
-💬 Ask me about
-Python, JavaScript, React, Next.js, AI projects, Git, GitHub, and web development.
-
-⚡ Fun fact
-I enjoy turning ideas into real-world AI applications and learning by building practical projects.
-I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. My projects focus on solving real-world problems through intuitive web applications and AI-powered solutions. I'm continuously expanding my skills by building hands-on projects and exploring modern technologies.
-
-Socials: LinkedIn 
-         Email
-         Instagram 
-         
-
-AI / ML: Machine Learning, Deep Learning, CNNs, RNNs, NLP, LLMs, Generative AI, Prompt Engineering.
-
-Backend & Databases: Node.js, Express.js, REST APIs, MongoDB, MySQL, PostgreSQL.
-
-Languages: C++, Python, JavaScript, TypeScript, HTML/CSS.
-
-Tools & Design: Git, GitHub, Jira, Figma, Canva, Adobe Lightroom, Adobe Firefly.
-
+"Learning by building, improving through every project, and creating technology that solves real-world problems."
 
