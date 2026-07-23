@@ -2,7 +2,6 @@
 
 🚀 About Me
 🔭 Currently building AI-powered web applications and full-stack projects using React, Next.js, Python, and modern AI technologies.
-
 🌱 Continuously learning Machine Learning, Deep Learning, Large Language Models (LLMs), FastAPI, Next.js, SQL, and Data Structures & Algorithms.
 
 🤝 Open to collaborating on AI applications, full-stack development, and open-source projects that solve real-world problems.
